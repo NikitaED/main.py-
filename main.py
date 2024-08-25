@@ -9,4 +9,4 @@ print((2*2+2)== (2*(2+2)))
 #4rd program
 print(float('123.456'))
 print(float('123.456')*10)
-print(int(float(1234.56 % 10)))
+print(int(float('1234.56') % 10))
